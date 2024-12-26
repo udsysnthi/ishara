@@ -129,10 +129,9 @@ sections:
         type: FeaturedItem
       - title: Waterfalls
         subtitle: Day Tours
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Mainly we have nice waterfalls around us we offer the day tours who
+          like to visit adventurous and enjoy beautiful nature.
         image:
           url: /images/laxapana-falls-sri-lanka-945x630.jpg
           altText: Featured icon three
