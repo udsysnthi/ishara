@@ -1,17 +1,17 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Capture.PNG",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Stylish Restaurant &  Adventure Tours.\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
             {
                 "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "altText": "",
+                "url": "/tours",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -31,58 +31,32 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "We are established in since 2016"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
-            "url": "/",
+            "url": "huggingclouds@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/hugging_clouds_guest/?hl=en",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/Huggingguest/",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [
