@@ -145,7 +145,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Things To Do
-        tagline: This is the tagline
+        tagline: Around The Adam's Peak
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
