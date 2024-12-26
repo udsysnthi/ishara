@@ -7,7 +7,7 @@ sections:
       text: Hugging Clouds
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Guest &
     text: >+
       <div style="text-align: center">**Welcomes to Adam's Peak (Sri Padhaya).
       We offer star hotel service at a semi budget/ backpack price of
