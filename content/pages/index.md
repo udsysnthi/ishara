@@ -21,7 +21,7 @@ sections:
 
 
     actions:
-      - label: Get started
+      - label: B
         altText: ''
         url: /
         showIcon: false
