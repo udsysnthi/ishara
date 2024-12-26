@@ -282,7 +282,7 @@ sections:
           waterfall to get to the top of Gartmore falls for a swim. It was such
           a great day because of his hospitality.Would highly recommend staying
           at Hugging Clouds and going on the waterfall tour with Madu!
-        tagline: Testimonial 1
+        tagline: '1'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
