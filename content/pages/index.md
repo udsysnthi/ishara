@@ -275,10 +275,7 @@ sections:
       - title: Google review
         tagline: '2'
         subtitle: Angeles
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "The best Guest house to stay! Amazing views, really good food and near Adam’s peak.\nWe love Banana Pancake after the long hike\U0001F64C\U0001F3FB\nIf you need a ride to another city ask for Madu. Best one ever!!!\n\n"
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
