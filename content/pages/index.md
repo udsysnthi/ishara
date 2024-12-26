@@ -21,7 +21,7 @@ sections:
 
 
     actions:
-      - label: B
+      - label: Book Now
         altText: ''
         url: /
         showIcon: false
