@@ -273,7 +273,7 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: Google review
-        tagline: '1'
+        tagline: '2'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
