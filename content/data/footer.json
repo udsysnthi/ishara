@@ -11,7 +11,7 @@
             {
                 "label": "Features",
                 "altText": "",
-                "url": "/tour",
+                "url": "/tours",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
