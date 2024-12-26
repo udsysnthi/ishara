@@ -95,31 +95,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Adam's Peak
-        subtitle: Hike
-        text: >
-          We are located in Nallathanniya and 5min walking distance to the
-          Adam's peak starting point. We provide all information's to our all
-          customers about the hike. also arrange the local guide for the hike.
-        image:
-          url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Waterfalls
         subtitle: Day Tours
         text: >
