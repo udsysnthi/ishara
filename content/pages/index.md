@@ -333,7 +333,7 @@ sections:
         type: FeaturedItem
       - title: 'Trip Advisor '
         tagline: '4'
-        subtitle: 'Maria Walters, Company'
+        subtitle: Daydream
         text: >+
           We went on an awesome tour of this beautiful country together with
           Madu - our local guide & driver & feel good expert from Hugging Clouds
