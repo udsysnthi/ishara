@@ -272,16 +272,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          Our stay at Hugging Clouds was fantastic. The 500m proximity to Adam’s
-          peak made it the perfect start point for the trek up.What really made
-          our stay at Hugging Clouds was the service. Madu took us on a
-          waterfall trekking tour. We drove through a tea plantation estate and
-          Madu answered all of our questions about tea harvesting and
-          manufacturing. We walked through tea crops and across another
-          waterfall to get to the top of Gartmore falls for a swim. It was such
-          a great day because of his hospitality.Would highly recommend staying
-          at Hugging Clouds and going on the waterfall tour with Madu!
+      - title: Google review
         tagline: '1'
         subtitle: 'Maria Walters, Company'
         text: >-
