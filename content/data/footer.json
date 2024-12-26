@@ -40,7 +40,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "hugging",
             "icon": "mail",
             "type": "Social"
         },
