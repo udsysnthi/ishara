@@ -102,7 +102,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Sri Padhaya
+      - title: Adam's Peak
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
