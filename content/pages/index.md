@@ -285,7 +285,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: HCG&
+      label: HCG&t
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
