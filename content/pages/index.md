@@ -386,7 +386,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Tripadvisor
-        tagline: Testimonial 4
+        tagline: '5'
         subtitle: 'Maria Walters, Company'
         text: >+
           We arrived from Hatton via Bus and had this amazing view of the
