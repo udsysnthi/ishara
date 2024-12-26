@@ -506,7 +506,7 @@ sections:
     subtitle: ''
     items:
       - title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
