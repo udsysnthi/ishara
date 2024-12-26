@@ -163,7 +163,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: Divider
+  - title: FG
     colors: bg-light-fg-dark
     styles:
       self:
