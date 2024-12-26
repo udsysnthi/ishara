@@ -300,10 +300,16 @@ sections:
       - title: Google review
         tagline: '3'
         subtitle: Elena
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Hugging Clouds is very practical to reach Adam’s peak entrance.
+
+          The rooms are simple but they have everything you need.
+
+          The food is very good and the breakfast is delicious especially after
+          climbing 5640 steps!
+
+          The staff is super helpful, so I would definitely recommend!
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
