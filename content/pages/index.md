@@ -528,6 +528,30 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+      - type: FeaturedItem
+        title: 'Activities '
+        subtitle: $ 88 – $ 176
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
