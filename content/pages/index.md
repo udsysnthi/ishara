@@ -574,7 +574,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
