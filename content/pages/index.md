@@ -387,7 +387,7 @@ sections:
         type: FeaturedItem
       - title: Tripadvisor
         tagline: '5'
-        subtitle: 'Maria Walters, Company'
+        subtitle: T
         text: >+
           We arrived from Hatton via Bus and had this amazing view of the
           Nallathanniya area. The Huggin Clouds staff were super friendly and
