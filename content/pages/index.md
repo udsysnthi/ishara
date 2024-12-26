@@ -332,7 +332,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Trip Advisor '
-        tagline: Testimonial 3
+        tagline: '4'
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
