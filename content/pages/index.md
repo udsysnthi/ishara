@@ -556,7 +556,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/20220201_141341.jpg
           altText: Placeholder image
           styles:
             self:
