@@ -298,7 +298,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Google review
-        tagline: Testimonial 2
+        tagline: '3'
         subtitle: 'John Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
