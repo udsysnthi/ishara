@@ -166,7 +166,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
+            flexDirection: col
     actions:
       - label: Get started
         altText: ''
