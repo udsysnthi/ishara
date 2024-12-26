@@ -44,13 +44,6 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-    badge:
-      label: HC
-      color: text-primary
-      type: Badge
-      styles:
-        self:
-          textAlign: left
     elementId: ''
     colors: bg-light-fg-dark
     styles:
