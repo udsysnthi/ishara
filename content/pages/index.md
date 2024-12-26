@@ -387,7 +387,7 @@ sections:
         type: FeaturedItem
       - title: Tripadvisor
         tagline: '5'
-        subtitle: T
+        subtitle: Thobias
         text: >+
           We arrived from Hatton via Bus and had this amazing view of the
           Nallathanniya area. The Huggin Clouds staff were super friendly and
