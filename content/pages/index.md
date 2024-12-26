@@ -578,7 +578,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/20230309_094529.jpg
           altText: Placeholder image
           styles:
             self:
