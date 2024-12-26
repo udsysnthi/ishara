@@ -510,7 +510,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/800x750-14.jpg
           altText: Placeholder Image
           styles:
             self:
