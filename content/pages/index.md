@@ -334,10 +334,36 @@ sections:
       - title: 'Trip Advisor '
         tagline: '4'
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We went on an awesome tour of this beautiful country together with
+          Madu - our local guide & driver & feel good expert from Hugging Clouds
+          Tours - one of the best experiences of our lives!
+
+          It's impossible to list all the different activities, but here are our
+          favorites:
+
+          \- elephant safari (they were so close!)
+
+          \- cooking class Sri Lankan style (delicious!)
+
+          \- Temple of The Tooth at night (perfect timing to see the relic!)
+
+          \- train ride (thanks for the seats, Madu!)
+
+          \- Sigiriya rock fortress (what an incredible view and history)
+
+          \- mega zip line (some adrenaline!)
+
+          \- ... and so much more.
+
+          But the main attractions were only part of the story, because we would
+          just stop everywhere to try the local cuisine (fresh fruit, street
+          food, coconuts, fresh roasted peanuts, you name it!). If you saw
+          something (moon stone mine 4 km right), he made it possible. If he
+          wasn't convinced of something he would tell you. Always on time,
+          always 110 % reliable, always smiles, and always knowledgable and fun
+          to talk to.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
