@@ -163,7 +163,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title: FG
+  - title: Guest House
     colors: bg-light-fg-dark
     styles:
       self:
