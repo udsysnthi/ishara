@@ -134,7 +134,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/laxapana-falls-sri-lanka-945x630.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
