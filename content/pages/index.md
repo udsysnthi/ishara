@@ -647,7 +647,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Section with a form subtitle
+  - subtitle: Hugging
     text: |
       Write down your questions we will contact you soon as possible!
     media:
