@@ -50,7 +50,7 @@ sections:
       type: Badge
       styles:
         self:
-          textAlign: center
+          textAlign: left
     elementId: ''
     colors: bg-light-fg-dark
     styles:
