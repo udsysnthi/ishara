@@ -180,8 +180,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/TripadvisorxMotherDesign_03.jpg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
