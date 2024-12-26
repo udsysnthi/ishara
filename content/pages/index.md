@@ -503,7 +503,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Pict
+    subtitle: ''
     items:
       - title: Feature Item One
         tagline: This is the tagline
