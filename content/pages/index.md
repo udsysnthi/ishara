@@ -274,7 +274,7 @@ sections:
     items:
       - title: Google review
         tagline: '2'
-        subtitle: 'Maria Walters, Company'
+        subtitle: Angeles
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
