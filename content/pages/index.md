@@ -430,7 +430,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Google review
-        tagline: Testimonial 6
+        tagline: ''
         subtitle: T
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
