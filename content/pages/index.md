@@ -647,7 +647,7 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - subtitle: Hugging
+  - subtitle: Hugging CloudsTeam
     text: |
       Write down your questions we will contact you soon as possible!
     media:
