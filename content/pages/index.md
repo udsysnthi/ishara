@@ -148,7 +148,7 @@ sections:
         tagline: Around The Adam's Peak
         subtitle: 'walk, bicycling'
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Nice view points around the tea fields and waterfalls.
         image:
           type: ImageBlock
           url: /images/Upper-Gartmore-Falls.jpg
