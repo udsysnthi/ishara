@@ -497,7 +497,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Images
+      text: G
       color: text-primary
       styles:
         self:
