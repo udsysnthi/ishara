@@ -553,7 +553,7 @@ sections:
             justifyContent: center
       - title: ''
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/abstract-feature2.svg
