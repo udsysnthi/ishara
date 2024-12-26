@@ -1,7 +1,7 @@
 ---
 title: Restaurant
 slug: top-twenty-ways-to-save-time
-date: '2023-03-25'
+date: '2024-12-26'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
