@@ -431,7 +431,7 @@ sections:
         type: FeaturedItem
       - title: Google review
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: T
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
