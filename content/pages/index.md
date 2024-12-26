@@ -167,7 +167,7 @@ sections:
     showThumbnail: true
     showDate: true
     showAuthor: true
-    variant: three-col-grid
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:
