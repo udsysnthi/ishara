@@ -390,10 +390,17 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We arrived from Hatton via Bus and had this amazing view of the
+          Nallathanniya area. The Huggin Clouds staff were super friendly and
+          helpful. We quickly found a tour through the tea fields, to different
+          view spots in high elevation and to the top of a huge waterfall with a
+          natural infinity pool (with the possibility to swim) - amazing! The
+          entire tour was really spectacular. We were lucky to have auch a nice
+          guide who Had so many details around the tea fields, different
+          divisions but also about the different religions. Thanks for a great
+          day, would definitely recommend.
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
