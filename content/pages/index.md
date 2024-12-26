@@ -505,7 +505,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: ''
         tagline: This is the tagline
         subtitle: ''
         text: ''
