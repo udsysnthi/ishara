@@ -8,7 +8,7 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
   styles:
     self:
       borderRadius: medium
