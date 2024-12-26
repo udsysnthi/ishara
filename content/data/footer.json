@@ -56,6 +56,13 @@
             "url": "/",
             "icon": "instagram",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/Huggingguest/",
+            "icon": "facebook",
+            "elementId": ""
         }
     ],
     "legalLinks": [
