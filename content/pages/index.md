@@ -77,10 +77,9 @@ sections:
       - type: FeaturedItem
         title: Full Tour Around Sri Lanka
         subtitle: Arrange as you need
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We are offer tour plans as you want and guide you everything till your
+          tour finished. contact us and get your plans.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
