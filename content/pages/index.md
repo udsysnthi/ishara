@@ -141,6 +141,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            borderColor: border-light
         type: FeaturedItem
       - type: FeaturedItem
         title: Things To Do
