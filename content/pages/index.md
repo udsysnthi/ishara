@@ -528,7 +528,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: 'Activities '
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
