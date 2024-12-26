@@ -168,7 +168,7 @@ sections:
     showDate: true
     showAuthor: true
     variant: small-list
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
