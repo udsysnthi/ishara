@@ -66,7 +66,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Hugging Clouds Tours
       color: text-dark
       styles:
         self:
