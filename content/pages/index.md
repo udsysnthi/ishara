@@ -72,7 +72,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Enjoy Your holiday with Best Expireance
     items:
       - type: FeaturedItem
         title: 500k
