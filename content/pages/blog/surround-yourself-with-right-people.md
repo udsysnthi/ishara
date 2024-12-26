@@ -1,5 +1,5 @@
 ---
-title: 'Adam''s:Peak Hike'
+title: Adam's Peak Hike
 slug: surround-yourself-with-right-people
 date: '2024-12-26'
 excerpt: >-
