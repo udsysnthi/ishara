@@ -431,7 +431,7 @@ sections:
         type: FeaturedItem
       - title: Google review
         tagline: ''
-        subtitle: Tyra Simon
+        subtitle: Tyra Simons
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
