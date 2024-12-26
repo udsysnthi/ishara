@@ -45,7 +45,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: HCG
       color: text-primary
       type: Badge
       styles:
