@@ -76,7 +76,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Full Tour Around Sri Lanka
-        subtitle: Numbers Done
+        subtitle: Arrange as you need
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
