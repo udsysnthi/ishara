@@ -551,7 +551,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-      - title: Feature Item Two
+      - title: ''
         tagline: ''
         subtitle: This is the item subtitle
         text: |
