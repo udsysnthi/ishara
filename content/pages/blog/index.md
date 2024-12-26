@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Rooms
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
