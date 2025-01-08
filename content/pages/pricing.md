@@ -3,7 +3,7 @@ title: Tours
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Tours
       color: text-dark
       styles:
         self:
