@@ -1,6 +1,6 @@
 ---
 title: GUEST
-slug: /blog
+slug: /TOURS
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
