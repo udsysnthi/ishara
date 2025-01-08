@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: About Hike
-date: '2022-10-10'
+date: '2025-01-08'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
