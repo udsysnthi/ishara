@@ -207,13 +207,7 @@ sections:
       an enriching and unforgettable way to experience the best of Sri Lanka’s
       Upcountry.</div>
 
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
