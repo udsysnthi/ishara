@@ -112,8 +112,12 @@ sections:
         title: All Around Sri Lanka
         tagline: '03'
         subtitle: ''
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+
+          offers a range of curated tours all around the sri lanka to help
+          guests explore the natural beauty, cultural heritage, and spiritual
+          significance of the region.
+
         image:
           type: ImageBlock
           url: /images/800x750-61.jpg
