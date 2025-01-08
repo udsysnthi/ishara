@@ -141,13 +141,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    badge:
-      label: HCT
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
