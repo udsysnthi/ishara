@@ -73,7 +73,7 @@ sections:
           tour finished. contact us and get your plans.
         actions:
           - type: Button
-            label: 'More '
+            label: More Details
             altText: ''
             url: /TOURS
             showIcon: false
