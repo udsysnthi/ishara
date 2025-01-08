@@ -52,7 +52,7 @@ bottomSections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: huggingcloudsguest@gmail.com
           isRequired: true
           width: full
         - type: TextareaFormControl
