@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Tours
 slug: pricing
 sections:
   - title:
