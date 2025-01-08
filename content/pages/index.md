@@ -9,16 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Guest & Tours
     text: >+
-      <div style="text-align: center">**Welcomes to Adam's Peak (Sri Padhaya).
-      We offer star hotel service at a semi budget/ backpack price of
-      accommodation and tours.
-
-      Come and visit us at Adam's Peak. There is much more to see than just
-      climbing up Adam's peak and all as you will see on our website. also we
-      arrange the tours all around the Sri Lanka.**
-
-      ===========================================================================================================================================================================================</div>
-
+      <div style="text-align: center">**Hugging Clouds** is a unique guesthouse
+      located near **Adam's Peak** (Sri Pada), one of the most sacred and
+      revered mountains in the country. The guesthouse offers a perfect retreat
+      for adventurers, pilgrims, and nature lovers who are keen to experience
+      the beauty and spirituality of Adam’s Peak while enjoying a cozy and
+      peaceful atmosphere. Whether you're setting out to climb the iconic peak
+      or simply seeking tranquility amidst the clouds, Hugging Clouds is an
+      ideal place to rest and recharge.</div>
 
     actions:
       - label: Book Now
