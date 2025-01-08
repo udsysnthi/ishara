@@ -30,7 +30,7 @@ sections:
         type: Button
       - label: 'check Availability '
         altText: ''
-        url: 'https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid'
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
