@@ -112,7 +112,16 @@ sections:
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: '/TOUR''S '
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-dark-fg-light
         styles:
           self:
