@@ -59,7 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: '01'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
