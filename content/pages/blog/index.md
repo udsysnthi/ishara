@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: ''
+      text: Hugging Clouds
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
