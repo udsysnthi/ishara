@@ -8,7 +8,7 @@ topSections:
       text: Hugging Clouds
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Tours
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
