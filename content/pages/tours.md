@@ -87,9 +87,8 @@ sections:
         tagline: '02'
         subtitle: ''
         text: >
-
-          offers a range of curated tours to help guests explore the natural
-          beauty, cultural heritage, and spiritual significance of the region.
+          help guests explore the natural beauty, Tea plantation visits,
+          waterfalls tracking.
         image:
           type: ImageBlock
           url: /images/20220201_141341.jpg
