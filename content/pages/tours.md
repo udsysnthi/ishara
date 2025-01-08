@@ -66,7 +66,7 @@ sections:
           experience for both spiritual seekers and nature lovers. 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
           altText: Placeholder image
           styles:
             self:
