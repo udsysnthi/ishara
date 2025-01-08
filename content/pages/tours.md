@@ -60,7 +60,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: '01'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           **Adam’s Peak Sunrise Hike** is a pilgrimage and a bucket-list
           experience for both spiritual seekers and nature lovers. 
