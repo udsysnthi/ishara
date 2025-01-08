@@ -28,7 +28,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: 'check Availability '
+      - label: About
         altText: ''
         url: /About
         showIcon: true
