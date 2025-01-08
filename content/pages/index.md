@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Guest & Tours
     text: >+
-      <div style="text-align: center">##### ***Hugging Clouds** is a unique
+      <div style="text-align: center"># ***Hugging Clouds** is a unique
       guesthouse located near **Adam's Peak** (Sri Pada), one of the most sacred
       and revered mountains in the country. The guesthouse offers a perfect
       retreat for adventurers, pilgrims, and nature lovers who are keen to
