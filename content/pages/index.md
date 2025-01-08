@@ -32,7 +32,7 @@ sections:
         altText: ''
         url: ''
         showIcon: true
-        icon: arrowDown
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
