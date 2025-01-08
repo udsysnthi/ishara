@@ -58,7 +58,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: ''
+        title: Adam's Peak
         tagline: Adam's peak
         subtitle: ''
         text: >
