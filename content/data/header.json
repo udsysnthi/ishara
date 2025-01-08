@@ -58,7 +58,19 @@
             "type": "SubNav"
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Link",
+            "label": "Send email",
+            "altText": "Play",
+            "url": "/huggingcloudsguest@gmail.com",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
