@@ -30,7 +30,7 @@ sections:
         type: Button
       - label: 'check Availability '
         altText: ''
-        url: ''
+        url: /About
         showIcon: true
         icon: arrowRight
         iconPosition: right
