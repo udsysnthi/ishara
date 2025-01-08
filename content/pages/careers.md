@@ -11,8 +11,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: left">**Hugging Clouds Tours: Experience the Best
-      of Adam's Peak and Beyond****Overview of Hugging Clouds Tours:**
+      <div style="text-align: center">**Overview of Hugging Clouds Tours:**
 
       Located near the iconic **Adam's Peak** in Sri Lanka’s central highlands,
       **Hugging Clouds** isn’t just a guesthouse; it also offers a range of
@@ -21,8 +20,13 @@ sections:
       hike Adam's Peak, discover local wildlife, or enjoy the charm of the
       Upcountry, Hugging Clouds tours are designed to offer memorable, enriching
       experiences.Here’s a look at some of the tours you can take when staying
-      at Hugging Clouds:### 1. **Adam's Peak Sunrise Hike Tour***  
-      **Duration:** 5-6 hours (depending on the pace)
+      at Hugging Clouds:### </div>
+
+
+
+
+      <div style="text-align: left">1. **Adam's Peak Sunrise Hike Tour**\*  
+      **Duration:** 5-6 hours (depending on the pace)</div>
 
 
       *   **Difficulty:** Moderate to challenging
@@ -48,7 +52,7 @@ sections:
       *   **Why Take This Tour:** The hike is one of the most important
       religious and cultural journeys in Sri Lanka, and Hugging Clouds provides
       a comfortable and convenient base for starting this memorable
-      adventure.### 2. **Tea Plantation Tour***   **Duration:** 3-4 hours
+      adventure.### 2. **Tea Plantation Tour**\*   **Duration:** 3-4 hours
 
 
       *   **Difficulty:** Easy
@@ -72,7 +76,7 @@ sections:
       *   **Why Take This Tour:** This is a wonderful way to immerse yourself in
       Sri Lanka’s rich tea heritage and enjoy the peaceful beauty of the
       plantations, with views stretching across the hills.### 3. **Horton Plains
-      and World’s End Tour***   **Duration:** 6-8 hours
+      and World’s End Tour**\*   **Duration:** 6-8 hours
 
 
       *   **Difficulty:** Moderate
@@ -96,7 +100,7 @@ sections:
 
       *   **Why Take This Tour:** Horton Plains offers incredible views and a
       diverse range of ecosystems, making it an ideal spot for hiking and nature
-      photography.### 4. **Knuckles Mountain Range Trek***   **Duration:** 6-8
+      photography.### 4. **Knuckles Mountain Range Trek**\*   **Duration:** 6-8
       hours
 
 
@@ -122,7 +126,7 @@ sections:
       *   **Why Take This Tour:** The Knuckles Range offers one of Sri Lanka's
       most beautiful and remote trekking experiences, perfect for those seeking
       adventure, nature, and cultural exploration.### 5. **Ramboda Falls and
-      Waterfalls Tour***   **Duration:** 4-5 hours
+      Waterfalls Tour**\*   **Duration:** 4-5 hours
 
 
       *   **Difficulty:** Easy
@@ -145,7 +149,7 @@ sections:
 
       *   **Why Take This Tour:** If you love nature and waterfalls, this tour
       offers a relaxing and picturesque experience in the Upcountry region.###
-      6. **Cultural and Spiritual Tour of Adam’s Peak***   **Duration:** 2-3
+      6. **Cultural and Spiritual Tour of Adam’s Peak**\*   **Duration:** 2-3
       hours
 
 
@@ -171,7 +175,7 @@ sections:
       *   **Why Take This Tour:** This tour is perfect for those looking to
       learn about the rich spiritual and cultural history of Adam's Peak while
       enjoying the peaceful surroundings of the mountain.### 7. **Local Village
-      Experience Tour***   **Duration:** 3-4 hours
+      Experience Tour**\*   **Duration:** 3-4 hours
 
 
       *   **Difficulty:** Easy
