@@ -61,8 +61,12 @@ sections:
         title: ''
         tagline: '01'
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          This is the highlight of many guests’ stays at Hugging Clouds. The
+          **Adam’s Peak Sunrise Hike** is a pilgrimage and a bucket-list
+          experience for both spiritual seekers and nature lovers. The hike
+          begins in the early hours of the morning, typically around 2:00 AM, so
+          you can reach the summit in time for the breathtaking sunrise.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
