@@ -237,7 +237,6 @@ excerpt: >-
   an enriching and unforgettable way to experience the best of Sri Lanka’s
   Upcountry.
 featuredImage:
-  url: /images/abstract-feature2.svg
   altText: Thumbnail
   type: ImageBlock
   styles:
