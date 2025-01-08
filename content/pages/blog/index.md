@@ -1,5 +1,5 @@
 ---
-title: Tours
+title: GUEST
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
