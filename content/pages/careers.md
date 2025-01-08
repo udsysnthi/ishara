@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: ''
     text: >
       **Hugging Clouds Tours: Experience the Best of Adam's Peak and Beyond**
 
