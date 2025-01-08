@@ -71,7 +71,16 @@ sections:
         text: >
           We are offer tour plans as you want and guide you everything till your
           tour finished. contact us and get your plans.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /TOURS
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
