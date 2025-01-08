@@ -109,7 +109,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: All Around Sri Lanka
         tagline: '03'
         subtitle: ''
         text: |
