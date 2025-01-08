@@ -1,34 +1,7 @@
 ---
 type: PageLayout
 title: Adam's Peak
-sections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Adam's Peak Hike
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/adam's-peak.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: false
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: move-up
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
+sections: []
 slug: Adam's Peak
 isDraft: false
 seo:
