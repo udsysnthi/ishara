@@ -149,7 +149,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Details
             altText: ''
             url: '/TOUR''S '
             showIcon: false
