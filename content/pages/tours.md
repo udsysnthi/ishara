@@ -23,7 +23,7 @@ sections:
       at Hugging Clouds.</div>
 
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
