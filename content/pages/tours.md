@@ -73,7 +73,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: More Details
             altText: ''
             url: /Adam's Peak
             showIcon: false
