@@ -42,7 +42,7 @@
             "label": "GUEST",
             "altText": "GUEST",
             "links": [],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
