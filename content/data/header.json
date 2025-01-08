@@ -40,7 +40,7 @@
         },
         {
             "label": "GUEST",
-            "altText": "Dropdown",
+            "altText": "GUEST",
             "links": [
                 {
                     "label": "Dropdown item",
