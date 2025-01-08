@@ -30,7 +30,7 @@ sections:
         type: Button
       - label: About
         altText: ''
-        url: /About
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
