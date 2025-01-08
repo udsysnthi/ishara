@@ -45,7 +45,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 67
+      opacity: 58
       url: /images/800x750-14.jpg
 seo:
   metaTitle: Careers - Demo site
