@@ -4,7 +4,7 @@ slug: TOURS
 sections:
   - title:
       text: A team that works closely together
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
