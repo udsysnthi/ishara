@@ -90,7 +90,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/20220201_141341.jpg
           altText: Placeholder image
           styles:
             self:
