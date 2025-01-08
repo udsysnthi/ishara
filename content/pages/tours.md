@@ -86,8 +86,10 @@ sections:
         title: Day Tours
         tagline: '02'
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+
+          offers a range of curated tours to help guests explore the natural
+          beauty, cultural heritage, and spiritual significance of the region.
         image:
           type: ImageBlock
           url: /images/20220201_141341.jpg
