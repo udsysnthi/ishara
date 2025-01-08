@@ -8,7 +8,7 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
   altText: Thumbnail
   elementId: ''
   styles:
