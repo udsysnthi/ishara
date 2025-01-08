@@ -140,7 +140,16 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: '/TOUR''S '
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
