@@ -59,7 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: '01'
+        tagline: Adam's peak
         subtitle: ''
         text: >
           **Adam’s Peak Sunrise Hike** is a pilgrimage and a bucket-list
