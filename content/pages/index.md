@@ -114,7 +114,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: TOURS
             altText: ''
             url: '/TOUR''S '
             showIcon: false
