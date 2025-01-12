@@ -179,7 +179,6 @@ sections:
   - type: FeaturedPostsSection
     posts:
       - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
