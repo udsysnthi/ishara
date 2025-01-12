@@ -3,24 +3,22 @@ title: TOURS
 slug: TOURS
 sections:
   - title:
-      text: A team that works closely together
-      color: text-neutral
+      text: Hugging Clouds Tours
+      color: text-light
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">#### **Overview of Hugging Clouds Tours:**
-
-      Located near the iconic **Adam's Peak** in Sri Lanka’s central highlands,
-      **Hugging Clouds** isn’t just a guesthouse; it also offers a range of
-      curated tours to help guests explore the natural beauty, cultural
-      heritage, and spiritual significance of the region. Whether you're here to
-      hike Adam's Peak, discover local wildlife, or enjoy the charm of the
-      Upcountry, Hugging Clouds tours are designed to offer memorable, enriching
-      experiences.Here’s a look at some of the tours you can take when staying
-      at Hugging Clouds.</div>
+      <div style="text-align: center">#### Located near the iconic **Adam's
+      Peak** in Sri Lanka’s central highlands, **Hugging Clouds** isn’t just a
+      guesthouse; it also offers a range of curated tours to help guests explore
+      the natural beauty, cultural heritage, and spiritual significance of the
+      region. Whether you're here to hike Adam's Peak, discover local wildlife,
+      or enjoy the charm of the Upcountry, Hugging Clouds tours are designed to
+      offer memorable, enriching experiences.Here’s a look at some of the tours
+      you can take when staying at Hugging Clouds.</div>
 
     actions: []
     colors: bg-dark-fg-light
@@ -47,6 +45,13 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 32
       url: /images/800x750-14.jpg
+    media:
+      type: ImageBlock
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -105,7 +110,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: 'More Details '
+            altText: ''
+            url: '/Day Tours '
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -120,12 +134,10 @@ sections:
         title: All Around Sri Lanka
         tagline: '03'
         subtitle: ''
-        text: >+
-
+        text: >
           offers a range of curated tours all around the sri lanka to help
           guests explore the natural beauty, cultural heritage, and spiritual
-          significance of the region.
-
+          significance of the region. Contact us for your perfect tour plan.
         image:
           type: ImageBlock
           url: /images/800x750-61.jpg
