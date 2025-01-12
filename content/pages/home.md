@@ -181,7 +181,7 @@ sections:
       - type: FeaturedItem
         title: Guest Rooms
         tagline: 'Accommodation '
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
 
           Designed to offer a cozy, serene, and comfortable escape, allowing
