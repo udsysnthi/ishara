@@ -650,7 +650,7 @@ sections:
     type: GenericSection
     title:
       type: TitleBlock
-      text: About
+      text: Hugging Clouds
       color: text-dark
 seo:
   metaTitle: Home - Demo site
