@@ -102,7 +102,7 @@ sections:
               - mb-1
               - mr-1
     variant: next-prev-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
