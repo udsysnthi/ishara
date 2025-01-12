@@ -52,10 +52,30 @@ sections:
         title: Local Village Experience Tour
         tagline: '02'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          For a more immersive experience, Hugging Clouds offers a Local Village
+          Tour, where you can visit nearby rural villages and experience the
+          lifestyle of the people living in the Upcountry. You’ll learn about
+          local agricultural practices, The rich cultural heritage of the
+          region.
+
+          Included:
+
+          A walk through local villages, visiting homes and meeting local
+          families.
+
+          A chance to observe traditional farming.
+
+          Why Take This Tour: It’s a great way to connect with the local
+          community, understand their customs, and get an authentic glimpse of
+          life in Sri Lanka’s Upcountry. Hugging Clouds offers a wide range of
+          tours that allow guests to explore the natural beauty, cultural
+          significance, and spiritual heritage of the Adam’s Peak region.
+          Whether you're interested in hiking, tea plantation visits, or
+          immersing yourself in local culture, there’s something for everyone to
+          enjoy. With experienced local guides and well-curated itineraries,
+          these tours offer an enriching and unforgettable way to experience the
+          best of Sri Lanka’s Upcountry.
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
