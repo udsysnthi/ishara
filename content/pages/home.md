@@ -134,8 +134,7 @@ sections:
         title: Things To Do
         tagline: Around The Adam's Peak
         subtitle: 'walk, bicycling'
-        text: |
-          Nice view points around the tea fields and waterfalls.
+        text: ''
         image:
           type: ImageBlock
           url: /images/Upper-Gartmore-Falls.jpg
