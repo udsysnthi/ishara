@@ -3,7 +3,7 @@ title: TOURS
 slug: TOURS
 sections:
   - title:
-      text: Day Tours
+      text: Hugging Clouds Tours
       color: text-neutral
       styles:
         self:
