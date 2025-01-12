@@ -132,7 +132,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Things To Do
-        tagline: Around The Adam's Peak
+        tagline: ''
         subtitle: ''
         text: ''
         image:
