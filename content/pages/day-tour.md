@@ -52,12 +52,12 @@ sections:
         title: Local Village Experience Tour
         tagline: '02'
         subtitle: ''
-        text: >
-          For a more immersive experience, Hugging Clouds offers a Local Village
-          Tour, where you can visit nearby rural villages and experience the
-          lifestyle of the people living in the Upcountry. You’ll learn about
-          local agricultural practices, The rich cultural heritage of the
-          region.
+        text: >+
+          <div style="text-align: left">For a more immersive experience, Hugging
+          Clouds offers a Local Village Tour, where you can visit nearby rural
+          villages and experience the lifestyle of the people living in the
+          Upcountry. You’ll learn about local agricultural practices, The rich
+          cultural heritage of the region.
 
           Included:
 
@@ -75,7 +75,8 @@ sections:
           immersing yourself in local culture, there’s something for everyone to
           enjoy. With experienced local guides and well-curated itineraries,
           these tours offer an enriching and unforgettable way to experience the
-          best of Sri Lanka’s Upcountry.
+          best of Sri Lanka’s Upcountry.</div>
+
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
