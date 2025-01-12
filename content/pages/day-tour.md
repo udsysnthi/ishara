@@ -105,7 +105,7 @@ sections:
       - type: FeaturedItem
         title: Moray Waterfall
         tagline: '03'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
