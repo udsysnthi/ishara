@@ -244,7 +244,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Restaurant '
-        tagline: 'Accommodation '
+        tagline: 'Restaurant '
         subtitle: ''
         text: >+
 
