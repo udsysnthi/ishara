@@ -88,10 +88,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-9
-              - pb-10
-              - pl-9
-              - pr-9
+              - pt-12
+              - pb-12
+              - pl-12
+              - pr-12
             textAlign: left
             borderRadius: large
             flexDirection: row
