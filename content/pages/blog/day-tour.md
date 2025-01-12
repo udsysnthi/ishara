@@ -32,7 +32,7 @@ bottomSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: ''
+      text: Day Tours
       color: text-dark
       styles:
         self:
