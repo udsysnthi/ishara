@@ -30,7 +30,7 @@ sections:
         type: Button
       - label: About
         altText: ''
-        url: /About
+        url: /blog/this-is-a-blog-post-with-related-posts/
         showIcon: true
         icon: arrowRight
         iconPosition: right
