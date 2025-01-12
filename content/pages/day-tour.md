@@ -96,6 +96,11 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            margin:
+              - mt-1
+              - ml-1
+              - mb-1
+              - mr-1
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
