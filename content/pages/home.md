@@ -67,7 +67,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Full Tour Around Sri Lanka
-        subtitle: Arrange as you need
+        subtitle: ''
         text: ''
         actions:
           - type: Button
