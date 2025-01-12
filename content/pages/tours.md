@@ -3,7 +3,7 @@ title: TOURS
 slug: TOURS
 sections:
   - title:
-      text: A team that works closely together
+      text: Day Tours
       color: text-neutral
       styles:
         self:
