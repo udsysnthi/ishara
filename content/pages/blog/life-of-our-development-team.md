@@ -22,6 +22,6 @@ colors: bg-light-fg-dark
 type: PostLayout
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
 isFeatured: false
 ---
