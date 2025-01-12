@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Adam's Peak
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Feature Item One
