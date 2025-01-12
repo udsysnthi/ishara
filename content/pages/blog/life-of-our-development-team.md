@@ -24,5 +24,6 @@ styles:
   self:
     flexDirection: row
     borderWidth: 0
+    borderRadius: large
 isFeatured: false
 ---
