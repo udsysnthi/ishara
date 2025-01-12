@@ -22,7 +22,7 @@ colors: bg-light-fg-dark
 type: PostLayout
 styles:
   self:
-    flexDirection: col
+    flexDirection: row
 isFeatured: false
 ---
 We Have a Nice Restaurant with beautiful view. Can enjoy freshly cooked food and great coffee.
