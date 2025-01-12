@@ -145,16 +145,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions:
-          - type: Button
-            label: Contact Us
-            altText: ''
-            url: /contact
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
