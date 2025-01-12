@@ -179,7 +179,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Guest Rooms
+        title: Accomadation
         tagline: 'Accommodation '
         subtitle: ''
         text: >+
