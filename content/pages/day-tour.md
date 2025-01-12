@@ -143,7 +143,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: ST.Clair & Devon
+        title: ST.Clair & Devon Falls
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
