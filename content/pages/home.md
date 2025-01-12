@@ -179,7 +179,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Accomadation
+        title: Accommodation
         tagline: 'Accommodation '
         subtitle: ''
         text: >+
