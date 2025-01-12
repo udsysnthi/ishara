@@ -16,9 +16,11 @@ sections:
         title: Overview
         tagline: ''
         subtitle: ''
-        text: >+
-          Adam's Peak Sunrise Hike Tour\*   Duration: 5-6 hours (depending on
-          the pace)
+        text: >
+          **Adam's Peak Sunrise Hike Tour**
+
+
+          Duration: 5-6 hours (depending on the pace)
 
 
           The Adam’s Peak Sunrise Hike is a pilgrimage and a bucket-list
@@ -43,8 +45,7 @@ sections:
 
           The hike is one of the most important religious and cultural journeys
           in Sri Lanka, and Hugging Clouds provides a comfortable and convenient
-          base for starting this memorable adventure. 
-
+          base for starting this memorable adventure.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
