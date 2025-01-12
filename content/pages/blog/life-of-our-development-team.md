@@ -25,5 +25,10 @@ styles:
     flexDirection: row
     borderWidth: 0
     borderRadius: large
+    margin:
+      - mt-14
+      - ml-14
+      - mb-14
+      - mr-14
 isFeatured: false
 ---
