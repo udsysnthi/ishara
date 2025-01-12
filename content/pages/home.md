@@ -216,7 +216,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Come and enjoy with us.
     text: ''
     actions: []
     media:
