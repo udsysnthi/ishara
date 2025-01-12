@@ -33,6 +33,7 @@ styles:
       - pl-0
       - pb-0
       - pr-0
+    borderWidth: 8
 isFeatured: false
 ---
 We Have a Nice Restaurant with beautiful view. Can enjoy freshly cooked food and great coffee.
