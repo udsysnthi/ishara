@@ -131,7 +131,7 @@ sections:
             borderColor: border-neutral
         type: FeaturedItem
       - type: FeaturedItem
-        title: Things To Do
+        title: Adam's Peak
         tagline: ''
         subtitle: ''
         text: ''
