@@ -213,10 +213,16 @@ sections:
         title: 'Restaurant '
         tagline: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          dining is more than just a meal—it's an experience. The guesthouse’s
+          restaurant offers guests a chance to savor the authentic flavors of
+          Sri Lanka’s hill country while enjoying the stunning beauty of the
+          surrounding misty mountains and tea plantations. Whether you're
+          sitting down for a hearty breakfast, a delicious lunch, or a peaceful
+          dinner, the restaurant provides a cozy and inviting atmosphere to
+          enjoy your meal.
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
