@@ -34,7 +34,7 @@ bottomSections:
       type: TitleBlock
       text: How can we help?
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Let us know for betterinformation
     text: >
       We are happy to help you any time. please let us know your questions we
       will contact you and answer soon as possible.
