@@ -110,7 +110,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: TOURS
+            label: Details About TOURS
             altText: ''
             url: '/TOURS '
             showIcon: false
