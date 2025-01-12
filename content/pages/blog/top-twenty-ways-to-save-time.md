@@ -23,6 +23,11 @@ type: PostLayout
 styles:
   self:
     flexDirection: row
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
 isFeatured: false
 ---
 We Have a Nice Restaurant with beautiful view. Can enjoy freshly cooked food and great coffee.
