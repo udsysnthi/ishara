@@ -103,7 +103,7 @@ sections:
               - mb-1
               - mr-1
       - type: FeaturedItem
-        title: Feature Item One
+        title: Moray Waterfall
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
