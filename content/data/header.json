@@ -32,7 +32,7 @@
         {
             "label": "TOUR'S ",
             "altText": "Tour's page",
-            "url": "/TOUR'S",
+            "url": "/TOURS",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
