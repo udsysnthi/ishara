@@ -146,8 +146,12 @@ sections:
         title: Gartmore Waterfalls
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          **Gartmore Waterfalls** is a captivating masterpiece of nature, a
+          place where the earth and sky meet in a harmonious display of beauty
+          and tranquility. Just a short distance from **Hugging Clouds Guest**,
+          this waterfall is an unspoiled paradise, offering an escape into the
+          heart of Sri Lanka's hill country.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
