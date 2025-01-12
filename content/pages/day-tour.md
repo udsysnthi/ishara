@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Day Tours
 sections:
   - type: CarouselSection
     subtitle: Day Tours
