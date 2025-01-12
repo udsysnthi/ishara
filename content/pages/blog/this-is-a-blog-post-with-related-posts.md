@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ABOUT
-date: ''
+date: '2025-01-12'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
