@@ -146,7 +146,7 @@ sections:
           - type: Button
             label: More Details
             altText: ''
-            url: '/TOURS '
+            url: /Adam's Peak
             showIcon: false
             icon: arrowRight
             iconPosition: right
