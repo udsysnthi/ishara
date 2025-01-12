@@ -650,7 +650,7 @@ sections:
     type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: About
       color: text-dark
 seo:
   metaTitle: Home - Demo site
