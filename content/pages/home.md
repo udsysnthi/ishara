@@ -112,7 +112,7 @@ sections:
           - type: Button
             label: 'More Details '
             altText: ''
-            url: '/TOURS '
+            url: /
             showIcon: false
             icon: arrowRight
             iconPosition: right
