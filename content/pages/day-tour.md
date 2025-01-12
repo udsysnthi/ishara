@@ -145,7 +145,7 @@ sections:
       - type: FeaturedItem
         title: Gartmore Waterfalls
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           **Gartmore Waterfalls** is a captivating masterpiece of nature, a
           place where the earth and sky meet in a harmonious display of beauty
