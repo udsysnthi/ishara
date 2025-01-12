@@ -48,7 +48,7 @@ sections:
           base for starting this memorable adventure.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
           altText: Placeholder image
           styles:
             self:
