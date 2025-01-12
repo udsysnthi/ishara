@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: '01'
-        subtitle: 'Maria Walters, Company'
+        subtitle: Tea Plantation Tour
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
