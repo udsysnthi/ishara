@@ -135,10 +135,9 @@ sections:
         tagline: '03'
         subtitle: ''
         text: >
-          [/contact](/contact)offers a range of curated tours all around the sri
-          lanka to help guests explore the natural beauty, cultural heritage,
-          and spiritual significance of the region. Contact us for your perfect
-          tour plan.
+          offers a range of curated tours all around the sri lanka to help
+          guests explore the natural beauty, cultural heritage, and spiritual
+          significance of the region. Contact us for your perfect tour plan.
         image:
           type: ImageBlock
           url: /images/800x750-61.jpg
