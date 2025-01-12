@@ -23,6 +23,6 @@ type: PostLayout
 styles:
   self:
     flexDirection: row
-    borderWidth: 8
+    borderWidth: 0
 isFeatured: false
 ---
