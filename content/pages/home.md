@@ -146,7 +146,7 @@ sections:
           - type: Button
             label: More Details
             altText: ''
-            url: '/TOUR''S '
+            url: '/TOURS '
             showIcon: false
             icon: arrowRight
             iconPosition: right
