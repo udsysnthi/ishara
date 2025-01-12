@@ -146,8 +146,19 @@ sections:
         title: Abardeen waterfall
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          **Aberdeen Waterfall** is one of the region’s most peaceful and scenic
+          natural wonders. Located near Nuwara Eliya, this waterfall is a place
+          where time seems to slow down, and the soft hum of cascading water
+          merges with the sounds of the forest.
+
+
+          The air grows cooler, and the misty landscapes of the hill country
+          envelop you, creating a sense of calm. As you approach the waterfall,
+          the sound of water gently cascading over rocks draws you closer, and
+          the sight of the waterfall tumbling down from a height of around 30
+          meters becomes even more breathtaking as it comes into view.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
