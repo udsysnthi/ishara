@@ -243,7 +243,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: 'Accommodation '
+        title: 'Restaurant '
         tagline: 'Accommodation '
         subtitle: ''
         text: >+
