@@ -97,7 +97,7 @@ styles:
   self:
     flexDirection: row
 ---
-****![](/images/20220201_141341.jpg)
+![](/images/20220201_141341.jpg)
 
 **01. Tea Plantation Tour**
 
@@ -109,31 +109,4 @@ An opportunity to observe the intricate tea-picking process and learn about the 
 A tasting session where you can sample fresh, aromatic Ceylon tea.
 
 This is a wonderful way to immerse yourself in Sri Lanka’s rich tea heritage and enjoy the peaceful beauty of the plantations, with views stretching across the hills.
-
-
-
-**02. Local Village Experience Tour**
-
-For a more immersive experience, Hugging Clouds offers a Local Village Tour, where you can visit nearby rural villages and experience the lifestyle of the people living in the Upcountry. You’ll learn about local agricultural practices, The rich cultural heritage of the region.
-Included:
- A walk through local villages, visiting homes and meeting local families.
-A chance to observe traditional farming.
-
-Why Take This Tour: It’s a great way to connect with the local community, understand their customs, and get an authentic glimpse of life in Sri Lanka’s Upcountry. Hugging Clouds offers a wide range of tours that allow guests to explore the natural beauty, cultural significance, and spiritual heritage of the Adam’s Peak region. Whether you're interested in hiking, tea plantation visits, or immersing yourself in local culture, there’s something for everyone to enjoy. With experienced local guides and well-curated itineraries, these tours offer an enriching and unforgettable way to experience the best of Sri Lanka’s Upcountry
-
-
-
-**03. Moray Waterfall**
-
-A hidden gem that captures the essence of Sri Lanka’s natural beauty. Tucked away in the misty hills of Nallathanniya, this picturesque waterfall offers a moment of tranquility for those who venture to see it.
-
-As you make your way to Moray Waterfall, the journey itself feels like a step into another world. The crisp air and the sounds of the surrounding forest guide you as you walk along the trail, with the occasional rustling of leaves and the distant murmur of water leading you closer. When you arrive, the sight of the waterfall is nothing short of magical—a pristine cascade of water tumbling down the rocks, surrounded by dense greenery and mist that seems to flow seamlessly from the clouds above.
-
-The Moray Waterfall is a place where nature’s power and serenity coexist. The sound of the rushing water against the rocks creates a peaceful, meditative atmosphere, inviting visitors to sit by its base and take in the stunning landscape. The surrounding forest, with its variety of flora and fauna, offers an immersive experience that allows guests to reconnect with the untouched beauty of Sri Lanka’s hill country.
-
-Though the waterfall itself is relatively small, its secluded location makes it a perfect retreat for those looking to escape the crowds and enjoy nature in its purest form. Whether you’re a nature enthusiast, a photographer, or simply someone in search of peace and quiet, Moray Waterfall provides a moment of respite, just a stone's throw from the calming embrace of Hugging Clouds Guest.
-
-Visiting Moray Waterfall is more than just a scenic stop—it’s an invitation to slow down and truly experience the world around you. The cascading waters, surrounded by the soft whispers of the mist, create an atmosphere of gentle magic that makes it a must-see destination for any traveler to Nallathanniya.
-
-
 
