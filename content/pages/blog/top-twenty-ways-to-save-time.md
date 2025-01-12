@@ -28,6 +28,11 @@ styles:
       - ml-0
       - mb-0
       - mr-0
+    padding:
+      - pt-12
+      - pl-12
+      - pb-12
+      - pr-12
 isFeatured: false
 ---
 We Have a Nice Restaurant with beautiful view. Can enjoy freshly cooked food and great coffee.
