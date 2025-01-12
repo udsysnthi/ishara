@@ -97,10 +97,13 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+**Tea Plantation Tour**
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Sri Lanka is world-famous for its tea, and the Upcountry region, where Hugging Clouds is located, is known for its lush, scenic tea plantations. On this tour, you’ll visit local tea estates where you can explore the rolling hills and fields of tea, learn about the history of Ceylon tea, and see the tea-picking process firsthand.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Included:
+A guided tour through one of the local tea plantations.
+An opportunity to observe the intricate tea-picking process and learn about the methods of cultivation and processing.
+A tasting session where you can sample fresh, aromatic Ceylon tea.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+This is a wonderful way to immerse yourself in Sri Lanka’s rich tea heritage and enjoy the peaceful beauty of the plantations, with views stretching across the hills.
