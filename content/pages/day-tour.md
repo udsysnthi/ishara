@@ -146,8 +146,14 @@ sections:
         title: Laxapana waterfall
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          The **Laxapana Waterfall** is another stunning natural landmark in Sri
+          Lanka, located in the hill country near Nallathanniya. It is one of
+          the tallest waterfalls in the country, with water cascading down from
+          a height of around 126 meters (413 feet). The waterfall is surrounded
+          by lush greenery and offers a peaceful retreat for visitors looking to
+          experience the beauty of Sri Lanka’s highlands.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
