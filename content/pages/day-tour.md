@@ -106,11 +106,8 @@ sections:
         title: Moray Waterfall
         tagline: '03'
         subtitle: ''
-        text: >
-          A hidden gem that captures the essence of Sri Lanka’s natural beauty.
-          Tucked away in the misty hills of Nallathanniya, this picturesque
-          waterfall offers a moment of tranquility for those who venture to see
-          it.
+        text: >+
+          A hidden gem that captures the essence of Sri Lanka’s natural beauty. 
 
           As you make your way to Moray Waterfall, the journey itself feels like
           a step into another world. The crisp air and the sounds of the
@@ -121,26 +118,12 @@ sections:
           surrounded by dense greenery and mist that seems to flow seamlessly
           from the clouds above.
 
-          The Moray Waterfall is a place where nature’s power and serenity
-          coexist. The sound of the rushing water against the rocks creates a
-          peaceful, meditative atmosphere, inviting visitors to sit by its base
-          and take in the stunning landscape. The surrounding forest, with its
-          variety of flora and fauna, offers an immersive experience that allows
-          guests to reconnect with the untouched beauty of Sri Lanka’s hill
-          country.
+          The sound of the rushing water against the rocks creates a peaceful,
+          meditative atmosphere, inviting visitors to sit by its base and take
+          in the stunning landscape. The surrounding forest, with its variety of
+          flora and fauna, offers an immersive experience that allows guests to
+          reconnect with the untouched beauty of Sri Lanka’s hill country.
 
-          Though the waterfall itself is relatively small, its secluded location
-          makes it a perfect retreat for those looking to escape the crowds and
-          enjoy nature in its purest form. Whether you’re a nature enthusiast, a
-          photographer, or simply someone in search of peace and quiet, Moray
-          Waterfall provides a moment of respite, just a stone's throw from the
-          calming embrace of Hugging Clouds Guest.
-
-          Visiting Moray Waterfall is more than just a scenic stop—it’s an
-          invitation to slow down and truly experience the world around you. The
-          cascading waters, surrounded by the soft whispers of the mist, create
-          an atmosphere of gentle magic that makes it a must-see destination for
-          any traveler to Nallathanniya.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
