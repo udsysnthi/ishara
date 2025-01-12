@@ -180,7 +180,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Accommodation
-        tagline: Restaurant
+        tagline: 'Accommodation '
         subtitle: ''
         text: >+
 
