@@ -1,6 +1,6 @@
 ---
-title: Home
-slug: /
+title: HOME
+slug: /HOME
 sections:
   - type: GenericSection
     title:
@@ -9,16 +9,14 @@ sections:
       type: TitleBlock
     subtitle: Guest & Tours
     text: >+
-      <div style="text-align: center">**Welcomes to Adam's Peak (Sri Padhaya).
-      We offer star hotel service at a semi budget/ backpack price of
-      accommodation and tours.
-
-      Come and visit us at Adam's Peak. There is much more to see than just
-      climbing up Adam's peak and all as you will see on our website. also we
-      arrange the tours all around the Sri Lanka.**
-
-      ===========================================================================================================================================================================================</div>
-
+      <div style="text-align: center"># ***Hugging Clouds** is a unique
+      guesthouse located near **Adam's Peak** (Sri Pada), one of the most sacred
+      and revered mountains in the country. The guesthouse offers a perfect
+      retreat for adventurers, pilgrims, and nature lovers who are keen to
+      experience the beauty and spirituality of Adam’s Peak while enjoying a
+      cozy and peaceful atmosphere. Whether you're setting out to climb the
+      iconic peak or simply seeking tranquility amidst the clouds, Hugging
+      Clouds is an ideal place to rest and recharge.*</div>
 
     actions:
       - label: Book Now
@@ -30,9 +28,9 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: 'check Availability '
+      - label: About
         altText: ''
-        url: 'https://www.booking.com/hotel/lk/hugging-clouds.en-gb.html?aid'
+        url: /blog/this-is-a-blog-post-with-related-posts/
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -69,11 +67,18 @@ sections:
     items:
       - type: FeaturedItem
         title: Full Tour Around Sri Lanka
-        subtitle: Arrange as you need
-        text: >
-          We are offer tour plans as you want and guide you everything till your
-          tour finished. contact us and get your plans.
-        actions: []
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: More Details
+            altText: ''
+            url: /TOURS
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -97,16 +102,23 @@ sections:
               borderRadius: x-large
       - title: Waterfalls
         subtitle: Day Tours
-        text: >
-          Mainly we have nice waterfalls around us we offer the day tours who
-          like to visit adventurous and enjoy beautiful nature.
+        text: ''
         image:
           url: /images/laxapana-falls-sri-lanka-945x630.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
+        actions:
+          - type: Button
+            label: 'More Details '
+            altText: ''
+            url: '/TOURS '
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -116,14 +128,13 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            borderColor: border-light
+            borderColor: border-neutral
         type: FeaturedItem
       - type: FeaturedItem
         title: Things To Do
         tagline: Around The Adam's Peak
-        subtitle: 'walk, bicycling'
-        text: |
-          Nice view points around the tea fields and waterfalls.
+        subtitle: ''
+        text: ''
         image:
           type: ImageBlock
           url: /images/Upper-Gartmore-Falls.jpg
@@ -131,7 +142,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: More Details
+            altText: ''
+            url: '/TOURS '
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -143,13 +163,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    badge:
-      label: HCT
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -164,13 +177,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts:
       - content/pages/blog/life-of-our-development-team.md
       - content/pages/blog/surround-yourself-with-right-people.md
@@ -204,18 +210,14 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: 'See around our nature '
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Come and enjoy with us.
+    text: ''
     actions: []
     media:
       title: Title of the video
@@ -637,6 +639,10 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    title:
+      type: TitleBlock
+      text: Hugging Clouds
+      color: text-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
