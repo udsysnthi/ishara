@@ -49,9 +49,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+        title: Local Village Experience Tour
         tagline: '02'
         subtitle: 'Jane Doe, Company'
         text: >-
