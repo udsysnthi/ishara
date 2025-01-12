@@ -1,34 +1,7 @@
 ---
 type: PageLayout
 title: This is a new page
-sections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Day Tours
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/day-tour.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
+sections: []
 slug: Day Tour
 isDraft: false
 seo:
