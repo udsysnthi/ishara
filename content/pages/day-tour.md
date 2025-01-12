@@ -143,7 +143,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Feature Item One
+        title: Gartmore Waterfalls
         tagline: ''
         subtitle: This is the item subtitle
         text: |
