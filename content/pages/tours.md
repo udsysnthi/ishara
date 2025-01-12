@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">#### **Overview:**Located near the iconic
+      <div style="text-align: center">#### Overview:Located near the iconic
       **Adam's Peak** in Sri Lanka’s central highlands, **Hugging Clouds** isn’t
       just a guesthouse; it also offers a range of curated tours to help guests
       explore the natural beauty, cultural heritage, and spiritual significance
