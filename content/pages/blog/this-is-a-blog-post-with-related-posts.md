@@ -7,7 +7,6 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/20230309_094529.jpg
   altText: Thumbnail
   elementId: ''
   styles:
