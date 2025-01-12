@@ -146,7 +146,7 @@ sections:
         title: Gartmore Waterfalls
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           **Gartmore Waterfalls** is a captivating masterpiece of nature, a
           place where the earth and sky meet in a harmonious display of beauty
           and tranquility. Just a short distance from **Hugging Clouds Guest**,
@@ -155,8 +155,8 @@ sections:
 
           The surrounding forest, alive with the sounds of birds and insects,
           frames the scene, making it feel like an isolated sanctuary where time
-          slows down and nature takes center stage.
-
+          slows down and nature takes center stage. People can swim on the
+          infinity pool at the top of the waterfall.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
