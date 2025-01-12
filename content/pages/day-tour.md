@@ -95,7 +95,7 @@ sections:
             textAlign: left
             borderRadius: large
             flexDirection: row
-            justifyContent: flex-start
+            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
