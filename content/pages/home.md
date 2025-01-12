@@ -112,7 +112,7 @@ sections:
           - type: Button
             label: 'More Details '
             altText: ''
-            url: '/TOURS '
+            url: /Day Tour
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -131,8 +131,8 @@ sections:
             borderColor: border-neutral
         type: FeaturedItem
       - type: FeaturedItem
-        title: Things To Do
-        tagline: Around The Adam's Peak
+        title: Adam's Peak
+        tagline: ''
         subtitle: ''
         text: ''
         image:
@@ -146,13 +146,13 @@ sections:
           - type: Button
             label: More Details
             altText: ''
-            url: '/TOURS '
+            url: /Adam's Peak
             showIcon: false
             icon: arrowRight
             iconPosition: right
             style: secondary
             elementId: ''
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -176,28 +176,112 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/surround-yourself-with-right-people.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Accommodation
+        tagline: 'Accommodation '
+        subtitle: ''
+        text: >+
+
+          Designed to offer a cozy, serene, and comfortable escape, allowing
+          guests to fully immerse themselves in the beauty of Sri Lanka's hill
+          country. Here’s a way you could describe the guest rooms, emphasizing
+          the peaceful atmosphere and natural surroundings:
+
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 'Restaurant '
+        tagline: ''
+        subtitle: ''
+        text: >
+          Dining is more than just a meal—it's an experience. The guesthouse’s
+          restaurant offers guests a chance to savor the authentic flavors of
+          Sri Lanka’s hill country while enjoying the stunning beauty of the
+          surrounding misty mountains and tea plantations. Whether you're
+          sitting down for a hearty breakfast, a delicious lunch, or a peaceful
+          dinner, the restaurant provides a cozy and inviting atmosphere to
+          enjoy your meal.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 'Restaurant '
+        tagline: 'Restaurant '
+        subtitle: ''
+        text: >+
+
+          Perfect blend of cozy ambiance, delicious food, and scenic views,
+          providing guests with a memorable dining experience amidst the
+          tranquil beauty of Sri Lanka’s hill country. Here's a description of
+          the restaurant, emphasizing its warmth, local flavors, and the serene
+          setting:
+
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
     styles:
       self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Guest House
     colors: bg-neutral-fg-dark
     styles:
@@ -506,30 +590,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/219353665.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
       - title: ''
         tagline: ''
         subtitle: ''
