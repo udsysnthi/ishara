@@ -49,7 +49,7 @@ sections:
       url: /images/800x750-14.jpg
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/20220201_141341.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
