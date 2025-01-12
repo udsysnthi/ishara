@@ -4,7 +4,7 @@ slug: TOURS
 sections:
   - title:
       text: Hugging Clouds Tours
-      color: text-neutral
+      color: text-light
       styles:
         self:
           textAlign: center
