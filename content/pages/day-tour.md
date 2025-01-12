@@ -146,12 +146,17 @@ sections:
         title: Gartmore Waterfalls
         tagline: ''
         subtitle: ''
-        text: >
+        text: >+
           **Gartmore Waterfalls** is a captivating masterpiece of nature, a
           place where the earth and sky meet in a harmonious display of beauty
           and tranquility. Just a short distance from **Hugging Clouds Guest**,
           this waterfall is an unspoiled paradise, offering an escape into the
           heart of Sri Lanka's hill country.
+
+          The surrounding forest, alive with the sounds of birds and insects,
+          frames the scene, making it feel like an isolated sanctuary where time
+          slows down and nature takes center stage.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
