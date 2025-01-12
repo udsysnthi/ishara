@@ -3,7 +3,7 @@ type: PageLayout
 title: This is a new page
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Day Tours
     items:
       - type: FeaturedItem
         title: >-
