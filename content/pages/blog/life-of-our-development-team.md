@@ -25,5 +25,3 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
-We Have 10 standard rooms. Including 03 Family rooms (2 Double Beds suitable for 4 Peoples) and 7 Double rooms with Queen size and king size bed, Hot water, Television, and private bathroom.
-
