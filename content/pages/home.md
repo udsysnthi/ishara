@@ -248,10 +248,11 @@ sections:
         subtitle: ''
         text: >+
 
-          Designed to offer a cozy, serene, and comfortable escape, allowing
-          guests to fully immerse themselves in the beauty of Sri Lanka's hill
-          country. Here’s a way you could describe the guest rooms, emphasizing
-          the peaceful atmosphere and natural surroundings:
+          Perfect blend of cozy ambiance, delicious food, and scenic views,
+          providing guests with a memorable dining experience amidst the
+          tranquil beauty of Sri Lanka’s hill country. Here's a description of
+          the restaurant, emphasizing its warmth, local flavors, and the serene
+          setting:
 
         image:
           type: ImageBlock
