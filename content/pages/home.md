@@ -180,7 +180,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Guest Rooms
-        tagline: Feature 1
+        tagline: 'Accommodation '
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
