@@ -210,7 +210,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: 'See around our nature '
       color: text-dark
       styles:
         self:
