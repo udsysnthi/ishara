@@ -246,10 +246,13 @@ sections:
         title: 'Accommodation '
         tagline: 'Accommodation '
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Designed to offer a cozy, serene, and comfortable escape, allowing
+          guests to fully immerse themselves in the beauty of Sri Lanka's hill
+          country. Here’s a way you could describe the guest rooms, emphasizing
+          the peaceful atmosphere and natural surroundings:
+
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
