@@ -146,8 +146,25 @@ sections:
         title: ST.Clair & Devon Falls
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          Known as the "Niagara of Sri Lanka," **St. Clair’s Waterfall** is one
+          of the largest and most impressive waterfalls on the island. The
+          waterfall is actually a combination of two streams, which flow from
+          the towering mountains and cascade down in a series of steps, creating
+          a stunning display of water. With a height of 80 meters, St. Clair’s
+          is an awe-inspiring sight, particularly during the rainy season when
+          the water flow is at its peak.
+
+
+          Just a short drive away from St. Clair’s is **Devon Waterfall**,
+          another stunning waterfall that offers a quieter, more peaceful
+          experience. At 97 meters tall, Devon is one of the tallest waterfalls
+          in Sri Lanka, but its beauty lies in its graceful cascade of water,
+          which flows down the cliffside in a single, elegant drop. The
+          surrounding landscape is lush with greenery, and the waterfall itself
+          is often shrouded in mist, adding to the ethereal quality of the
+          scene.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
