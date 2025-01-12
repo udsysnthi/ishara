@@ -244,7 +244,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: 'Accommodation '
-        tagline: Feature 2
+        tagline: 'Accommodation '
         subtitle: Be in good company
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
