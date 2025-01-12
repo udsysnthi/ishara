@@ -154,6 +154,15 @@ sections:
           by lush greenery and offers a peaceful retreat for visitors looking to
           experience the beauty of Sri Lanka’s highlands.
 
+
+
+          As you make your way through the winding paths of dense forest, the
+          air grows fresher and cooler, and the sounds of birds and rustling
+          leaves guide your path. Finally, you emerge into an open space where
+          the full grandeur of Laxapana Waterfall reveals itself—a massive
+          curtain of water tumbling down the rocks in a series of stunning
+          drops.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
