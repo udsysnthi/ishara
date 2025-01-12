@@ -102,9 +102,7 @@ sections:
               borderRadius: x-large
       - title: Waterfalls
         subtitle: Day Tours
-        text: >
-          Mainly we have nice waterfalls around us we offer the day tours who
-          like to visit adventurous and enjoy beautiful nature.
+        text: ''
         image:
           url: /images/laxapana-falls-sri-lanka-945x630.jpg
           altText: Featured icon three
