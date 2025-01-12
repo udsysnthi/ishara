@@ -29,6 +29,36 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/what-is-a-design-system.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    hoverEffect: shadow-plus-move-up
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -83,36 +113,6 @@ bottomSections:
           borderWidth: 1
           borderRadius: large
     colors: bg-light-fg-dark
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: shadow-plus-move-up
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
 slug: Day Tour
 isFeatured: false
 isDraft: false
