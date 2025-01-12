@@ -11,16 +11,14 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: center">#### **Overview of Hugging Clouds Tours:**
-
-      Located near the iconic **Adam's Peak** in Sri Lanka’s central highlands,
-      **Hugging Clouds** isn’t just a guesthouse; it also offers a range of
-      curated tours to help guests explore the natural beauty, cultural
-      heritage, and spiritual significance of the region. Whether you're here to
-      hike Adam's Peak, discover local wildlife, or enjoy the charm of the
-      Upcountry, Hugging Clouds tours are designed to offer memorable, enriching
-      experiences.Here’s a look at some of the tours you can take when staying
-      at Hugging Clouds.</div>
+      <div style="text-align: center">#### **Overview**Located near the iconic
+      **Adam's Peak** in Sri Lanka’s central highlands, **Hugging Clouds** isn’t
+      just a guesthouse; it also offers a range of curated tours to help guests
+      explore the natural beauty, cultural heritage, and spiritual significance
+      of the region. Whether you're here to hike Adam's Peak, discover local
+      wildlife, or enjoy the charm of the Upcountry, Hugging Clouds tours are
+      designed to offer memorable, enriching experiences.Here’s a look at some
+      of the tours you can take when staying at Hugging Clouds.</div>
 
     actions: []
     colors: bg-dark-fg-light
