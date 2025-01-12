@@ -24,10 +24,10 @@ styles:
   self:
     flexDirection: row
     margin:
-      - mt-7
-      - ml-7
-      - mb-7
-      - mr-7
+      - mt-20
+      - ml-20
+      - mb-20
+      - mr-20
 isFeatured: false
 ---
 We Have a Nice Restaurant with beautiful view. Can enjoy freshly cooked food and great coffee.
