@@ -144,7 +144,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Details
+            label: More Details
             altText: ''
             url: '/TOUR''S '
             showIcon: false
