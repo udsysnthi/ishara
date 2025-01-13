@@ -631,7 +631,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/Upper-Gartmore-Falls.jpg
 seo:
   metaTitle: 'Home '
   metaDescription: ''
