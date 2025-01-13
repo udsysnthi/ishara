@@ -598,6 +598,13 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
       elementId: contact-form
       styles:
         self:
