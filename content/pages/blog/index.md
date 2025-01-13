@@ -1,21 +1,20 @@
 ---
-title: Blog
-slug: /blog
+title: GUEST
+slug: /TOURS
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: Hugging Clouds
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    subtitle: Tours
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
-    variant: big-list
+    variant: small-list
     colors: bg-light-fg-dark
     styles:
       self:

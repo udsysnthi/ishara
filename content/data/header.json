@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "TOUR'S ",
+            "label": "TOURS ",
             "altText": "Tour's page",
             "url": "/TOURS",
             "icon": "arrowRight",
@@ -39,8 +39,8 @@
             "type": "Link"
         },
         {
-            "label": "GUEST",
-            "altText": "GUEST",
+            "label": "Accommodation",
+            "altText": "Accommodation",
             "links": [],
             "labelStyle": "primary",
             "type": "SubNav"
