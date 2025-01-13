@@ -314,7 +314,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://fb.watch/x4zzUCINnW/'
+      url: 'https://www.facebook.com/share/v/1FZG9kWiZU/'
       autoplay: true
       loop: true
       muted: true
