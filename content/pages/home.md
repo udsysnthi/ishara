@@ -330,7 +330,7 @@ sections:
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
-          borderRadius: large
+          borderRadius: x-large
           margin:
             - mt-0
             - ml-0
