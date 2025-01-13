@@ -67,9 +67,9 @@ bottomSections:
         title: Double Room
         tagline: '02'
         subtitle: 30USD
-        text: |+
+        text: >
           Queen size or /king size bed with private bathroom, Television.
-
+          suitable for two person.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
