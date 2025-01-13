@@ -196,7 +196,16 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /Guest
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
