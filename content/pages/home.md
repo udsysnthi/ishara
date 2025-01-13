@@ -331,6 +331,11 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+          margin:
+            - mt-2
+            - ml-2
+            - mb-2
+            - mr-2
       type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
