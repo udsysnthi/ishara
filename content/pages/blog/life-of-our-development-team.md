@@ -40,7 +40,7 @@ bottomSections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Single Room
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
