@@ -200,7 +200,7 @@ sections:
           - type: Button
             label: More Details
             altText: ''
-            url: /blog
+            url: /blog/life-of-our-development-team/
             showIcon: false
             icon: arrowRight
             iconPosition: right
