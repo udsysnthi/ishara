@@ -8,7 +8,8 @@ sections:
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
-    text: ''
+    text: |
+      Contact us 
     actions: []
     media:
       type: FormBlock
