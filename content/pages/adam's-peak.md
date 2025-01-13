@@ -26,7 +26,7 @@ sections:
       convenient base for starting this memorable adventure.
     items: []
     actions: []
-    variant: three-col-grid
+    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:
