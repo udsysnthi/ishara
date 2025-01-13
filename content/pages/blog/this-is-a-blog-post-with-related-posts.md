@@ -74,7 +74,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: About
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
