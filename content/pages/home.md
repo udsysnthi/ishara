@@ -314,7 +314,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://youtu.be/LTA6fobG4l0?si=7NNkDdV3JQvIeTZX'
+      url: 'https://youtu.be/iqt-aJfwwRw?si=pPagBW5gEL298Q1Q'
       autoplay: true
       loop: true
       muted: true
@@ -323,14 +323,19 @@ sections:
       styles:
         self:
           padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
+            - pt-0
+            - pb-0
+            - pl-0
+            - pr-0
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
+          margin:
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
       type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
@@ -624,6 +629,13 @@ sections:
       type: TitleBlock
       text: Hugging Clouds
       color: text-dark
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: ''
+      backgroundRepeat: no-repeat
+      opacity: 100
 seo:
   metaTitle: 'Home '
   metaDescription: ''
