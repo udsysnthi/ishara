@@ -75,7 +75,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: About
-  metaDescription: lorem-ipsum
+  metaDescription: About
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
