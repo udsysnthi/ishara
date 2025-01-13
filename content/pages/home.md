@@ -636,6 +636,16 @@ sections:
       backgroundPosition: ''
       backgroundRepeat: no-repeat
       opacity: 100
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: /CONTACT
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: 'Home '
   metaDescription: ''
