@@ -42,7 +42,7 @@ bottomSections:
       - type: FeaturedItem
         title: Single Room
         tagline: '01'
-        subtitle: 18USD
+        subtitle: 20USD
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
