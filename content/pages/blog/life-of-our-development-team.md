@@ -89,7 +89,7 @@ bottomSections:
             flexDirection: row
       - type: FeaturedItem
         title: Family Room
-        tagline: This is the tagline
+        tagline: '03'
         subtitle: This is the item subtitle
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
