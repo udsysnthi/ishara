@@ -1,0 +1,54 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "image",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "scroll"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Google review",
+                "tagline": "2",
+                "subtitle": "Angeles",
+                "text": "The best Guest house to stay! Amazing views, really good food and near Adam’s peak.\nWe love Banana Pancake after the long hike🙌🏻\nIf you need a ride to another city ask for Madu. Best one ever!!!\n\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/person-placeholder-light.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Maria Walters",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "full"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-dark-fg-light",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-9",
+                            "pb-9",
+                            "pl-9",
+                            "pr-9"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            }
+        }
+    ]
+}
