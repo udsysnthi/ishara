@@ -256,7 +256,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/219353665.jpg
           altText: Business consulting
           elementId: ''
           styles:
