@@ -582,7 +582,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: /images/800x750-14.jpg
+          url: /images/Upper-Gartmore-Falls.jpg
           altText: Placeholder Image
           styles:
             self:
