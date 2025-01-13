@@ -12,7 +12,7 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: 'Accommodation '
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: Accommodation
   socialImage: /images/abstract-feature3.svg
   type: Seo
 colors: bg-light-fg-dark
