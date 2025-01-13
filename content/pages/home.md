@@ -200,7 +200,7 @@ sections:
           - type: Button
             label: More Details
             altText: ''
-            url: /Guest
+            url: /blog
             showIcon: false
             icon: arrowRight
             iconPosition: right
