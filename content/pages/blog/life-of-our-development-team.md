@@ -66,7 +66,7 @@ bottomSections:
       - type: FeaturedItem
         title: Double Room
         tagline: '02'
-        subtitle: This is the item subtitle
+        subtitle: 30USD
         text: |+
           Queen size or /king size bed with private bathroom, Television.
 
