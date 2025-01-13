@@ -89,7 +89,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Day tour
-  metaDescription: lorem-ipsum
+  metaDescription: Day tour
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
