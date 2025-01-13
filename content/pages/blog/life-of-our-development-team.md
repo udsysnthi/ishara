@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Accomodation
 slug: life-of-our-development-team
 date: '2024-12-26'
 excerpt: ''
