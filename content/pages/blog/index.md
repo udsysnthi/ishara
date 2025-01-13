@@ -9,7 +9,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: Tours
-    posts: []
+    posts:
+      - content/pages/blog/guest.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
