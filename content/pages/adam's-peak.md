@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Adam's Peak Sunrise Hike Tour
         tagline: Feature 2
         subtitle: ''
         text: >+
