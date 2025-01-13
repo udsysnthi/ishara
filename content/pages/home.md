@@ -332,10 +332,10 @@ sections:
           borderWidth: 1
           borderRadius: large
           margin:
-            - mt-2
-            - ml-2
-            - mb-2
-            - mr-2
+            - mt-10
+            - ml-10
+            - mb-10
+            - mr-10
       type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
