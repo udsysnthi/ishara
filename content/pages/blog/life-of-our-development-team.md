@@ -44,7 +44,7 @@ bottomSections:
         tagline: '01'
         subtitle: 20USD
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Queen size bed with private bathroom.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
