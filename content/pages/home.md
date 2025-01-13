@@ -314,7 +314,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'https://www.facebook.com'
       autoplay: true
       loop: true
       muted: true
