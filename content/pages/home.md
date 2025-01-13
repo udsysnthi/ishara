@@ -621,28 +621,6 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/20230309_094529.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
