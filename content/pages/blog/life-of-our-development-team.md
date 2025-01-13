@@ -67,8 +67,9 @@ bottomSections:
         title: Double Room
         tagline: '02'
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          Queen size or /king size bed with private bathroom, Television.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
