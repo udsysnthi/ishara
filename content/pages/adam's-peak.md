@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Adam's Peak Sunrise Hike Tour
-        tagline: Feature 2
+        tagline: ''
         subtitle: ''
         text: >+
           Duration: 5-6 hours (depending on the pace)
