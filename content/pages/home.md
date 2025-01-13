@@ -624,6 +624,13 @@ sections:
       type: TitleBlock
       text: Hugging Clouds
       color: text-dark
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
 seo:
   metaTitle: 'Home '
   metaDescription: ''
