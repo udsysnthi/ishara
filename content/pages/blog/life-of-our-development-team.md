@@ -92,8 +92,10 @@ bottomSections:
         title: Family Room
         tagline: '03'
         subtitle: 45USD
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          2 Double Bed or 1 double and 2 Single beds with private bathroom, Tv.
+          Suitable for 04 people.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
