@@ -55,7 +55,7 @@
             "type": "Link",
             "label": "Send email",
             "altText": "Play",
-            "url": "/huggingcloudsguest@gmail.com",
+            "url": "/contact",
             "showIcon": true,
             "icon": "mail",
             "iconPosition": "right",
