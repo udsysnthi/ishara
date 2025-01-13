@@ -302,7 +302,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Day Tours
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Day
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
