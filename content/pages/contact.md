@@ -8,8 +8,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: Send your enquar
-    text: |
-      Contact us 
+    text: ''
     actions: []
     media:
       type: FormBlock
