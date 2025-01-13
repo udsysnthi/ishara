@@ -625,9 +625,11 @@ sections:
       text: Hugging Clouds
       color: text-dark
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: 'Home '
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
