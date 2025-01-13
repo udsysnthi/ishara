@@ -40,7 +40,7 @@
         },
         {
             "label": "Accommodation",
-            "altText": "Accomodation",
+            "altText": "Accommodation",
             "links": [],
             "labelStyle": "primary",
             "type": "SubNav"
