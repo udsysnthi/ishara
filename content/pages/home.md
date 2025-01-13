@@ -314,7 +314,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://www.facebook.com'
+      url: 'https://www.facebook.com/share/v/1BRWWtvvSu/?mibextid=D5vuiz'
       autoplay: true
       loop: true
       muted: true
