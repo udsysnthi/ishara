@@ -13,7 +13,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Overview
+        title: ''
         tagline: ''
         subtitle: ''
         text: ''
