@@ -44,7 +44,7 @@ bottomSections:
         tagline: '01'
         subtitle: 20USD
         text: |
-          Queen size bed with private bathroom.
+          Queen size bed with private bathroom. suitable for one person.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
