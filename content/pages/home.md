@@ -314,7 +314,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'https://youtu.be/LTA6fobG4l0?si=7NNkDdV3JQvIeTZX'
       autoplay: true
       loop: true
       muted: true
