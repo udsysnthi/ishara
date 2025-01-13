@@ -7,7 +7,6 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/20230309_094529.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -18,17 +17,6 @@ featuredImage:
         - pb-0
         - pr-0
 bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
@@ -86,8 +74,8 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaTitle: About
+  metaDescription: About
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
