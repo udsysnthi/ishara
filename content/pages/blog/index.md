@@ -1,6 +1,6 @@
 ---
 title: GUEST
-slug: /TOURS
+slug: /blog/life-of-our-development-team/
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
