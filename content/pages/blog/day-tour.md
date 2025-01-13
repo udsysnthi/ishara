@@ -88,7 +88,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Day tour
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
