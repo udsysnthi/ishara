@@ -170,8 +170,8 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Tours
+  metaDescription: HCT
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
