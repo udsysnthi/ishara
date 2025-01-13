@@ -17,13 +17,6 @@ sections:
         tagline: ''
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-neutral-fg-dark
         styles:
