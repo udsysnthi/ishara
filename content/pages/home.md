@@ -198,7 +198,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: More Details
             altText: ''
             url: /Guest
             showIcon: false
