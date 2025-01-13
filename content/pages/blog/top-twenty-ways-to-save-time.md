@@ -15,7 +15,7 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: Restaurant
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: Restaurant
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
