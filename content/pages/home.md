@@ -621,6 +621,31 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+      - type: FeaturedItem
+        title: Google review
+        tagline: '2'
+        subtitle: Angeles
+        text: "The best Guest house to stay! Amazing views, really good food and near Adam’s peak.\nWe love Banana Pancake after the long hike\U0001F64C\U0001F3FB\nIf you need a ride to another city ask for Madu. Best one ever!!!\n\n"
+        image:
+          type: ImageBlock
+          url: /images/person-placeholder-light.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
