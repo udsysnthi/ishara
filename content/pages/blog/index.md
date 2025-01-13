@@ -29,11 +29,6 @@ topSections:
 styles:
   title:
     textAlign: center
-seo:
-  metaTitle: Guest
-  metaDescription: Guest
-  socialImage: /images/img-placeholder.svg
-  type: Seo
 type: PostFeedLayout
 bottomSections: []
 postFeed:
