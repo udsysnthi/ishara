@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Send your enquar
+    subtitle: Send your enquiries we will response you soon as possible.
     text: ''
     actions: []
     media:
