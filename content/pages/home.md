@@ -191,12 +191,21 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/184834331.jpg
           altText: Featured item
           styles:
             self:
               borderRadius: medium
-        actions: []
+        actions:
+          - type: Button
+            label: More Details
+            altText: ''
+            url: /blog/life-of-our-development-team/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -256,7 +265,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/219353665.jpg
           altText: Business consulting
           elementId: ''
           styles:
@@ -305,11 +314,11 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/LTA6fobG4l0?si=7NNkDdV3JQvIeTZX'
       autoplay: true
       loop: true
       muted: true
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
@@ -559,94 +568,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Gallery
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/800x750-14.jpg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/20220201_141341.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          url: /images/20230309_094529.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - subtitle: Hugging CloudsTeam
     text: |
       Write down your questions we will contact you soon as possible!
