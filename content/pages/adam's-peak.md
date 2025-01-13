@@ -22,7 +22,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/sri-pada-adam-s-peak-sri-lanka.jpg
           altText: Business consulting
           elementId: ''
           styles:
