@@ -653,6 +653,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
-      property: ''
+      property: 'og:url'
+  addTitleSuffix: true
 type: PageLayout
 ---
