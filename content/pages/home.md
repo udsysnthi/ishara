@@ -654,5 +654,6 @@ seo:
   metaTags:
     - type: MetaTag
       property: ''
+  addTitleSuffix: true
 type: PageLayout
 ---
