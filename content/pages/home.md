@@ -618,7 +618,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: null
+        elementId: huggingcloudsguest@gmail.com
     badge:
       label: Contact Us
       color: text-primary
@@ -636,6 +636,16 @@ sections:
       backgroundPosition: ''
       backgroundRepeat: no-repeat
       opacity: 100
+    actions:
+      - type: Link
+        label: Send email
+        altText: Play
+        url: /huggingcloudsguest@gmail.com
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: 'Home '
   metaDescription: ''
