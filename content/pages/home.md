@@ -656,5 +656,5 @@ seo:
       property: ''
   addTitleSuffix: true
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
